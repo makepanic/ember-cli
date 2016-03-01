@@ -1,0 +1,8 @@
+{
+  "name": "hearth-server-middleware",
+  "keywords": [
+    "ember-addon"
+  ],
+  "ember-addon": {
+  }
+}
